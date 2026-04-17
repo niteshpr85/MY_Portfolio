@@ -64,7 +64,7 @@ AI-powered interview preparation platform
 
 ## 📊 Coding Profiles
 
-- 🔗 LeetCode: https://leetcode.com/YOUR_USERNAME  
+- 🔗 LeetCode: https://leetcode.com/niteshpr85
 - 🔗 GitHub: https://github.com/niteshpr85  
 
 ---
